@@ -52,5 +52,3 @@ The project contains three tables:
 ## Conclusion
 This project demonstrates how SQL can combine relational data, summarize customer purchasing behaviour, and measure customer retention over time.
 
-## Dataset Note
-This is a small sample dataset created for learning and demonstration. The results are illustrative and should not be treated as representative of a real business.
